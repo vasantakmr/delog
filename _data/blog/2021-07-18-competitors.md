@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Competitors
+path: /competitors
 date: 2021-07-18T08:59:43.880Z
 title: Competitors
 ---
